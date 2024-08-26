@@ -1,0 +1,10 @@
+.section1{
+    height: 500px;
+    width: 500px;
+    background-color: aquamarine;
+}
+@media (max-width:991px){
+    .section1{
+        background-color: black;
+    }
+}
